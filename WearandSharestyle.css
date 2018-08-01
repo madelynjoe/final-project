@@ -1,0 +1,124 @@
+html{
+  background-color: bisque;
+}
+
+.rest{
+  margin-top: 15px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.button {
+
+    background-color: #d6dadb;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 675px; /* Should be removed. Only for demonstration */
+    word-spacing: 7px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+    }
+}
+
+</style>
+
+
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column2 {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 475px; /* Should be removed. Only for demonstration */
+    word-spacing: 7px;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+    }
+}
+
+</style>
+
+<style>
+.column3 {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row3:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+</style>
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column4 {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 700px; /* Should be removed. Only for demonstration */
+    word-spacing: 7px;
+}
+
+/* Clear floats after the columns */
+.row4:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+    }
+}
+
+
+
+</head>
+<body>
